@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Shamim Reja Ahmed
+## 👋 Hi, I'm Shamim Reja Ahmed
 
 I'm a **Frontend Developer** and **Computer Applications Graduate (BCA)** from India. I'm passionate about building sleek UIs, integrating AI, and solving real-world problems with code.
 
